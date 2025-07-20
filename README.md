@@ -106,7 +106,7 @@ I'm a full-stack web developer, and I've recently branched into the world of Art
 
 ---
 
-## 🐍 Contribution Snake
+## Contributions
 
 ![snake gif](https://github.com/anannayamustcode/anannayamustcode/blob/output/github-snake.svg)
 
