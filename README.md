@@ -4,27 +4,27 @@
 </div>
 
 
-## 🚀 About Me
+## About Me
 
 I'm a full-stack web developer venturing into the world of Artificial Intelligence.  
 I love building fast, scalable apps and integrating AI into real products.
 
-- 🔭 **Currently working on:** AI-powered SaaS platforms & ML-driven tools  
-- 🌱 **Learning:** ML algorithms, model integration & automation  
-- 🤝 **Looking to collaborate on:** Freelance work, startup collabs & open-source AI projects  
-- 💬 **Ask me about:** React • Next.js • Tailwind • Node.js • MongoDB  
+- **Currently working on:** AI-powered SaaS platforms & ML-driven tools  
+- **Learning:** ML algorithms, model integration & automation  
+- **Looking to collaborate on:** Freelance work, startup collabs & open-source AI projects  
+- **Ask me about:** React • Next.js • Tailwind • Node.js • MongoDB  
 
-> ✨ *Fun fact:* I once believed clouds were edible, and honestly… I still wish they were.
+> *Fun fact:* I once believed clouds were edible, and honestly… I still wish they were.
 
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,mysql,redis,python,java,cpp,git,docker,firebase,figma&theme=dark&perline=10" />
 </p>
 
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   <a href="https://felecity.vercel.app/" target="_blank">
@@ -39,7 +39,7 @@ I love building fast, scalable apps and integrating AI into real products.
 </p>
 
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anannayamustcode&theme=tokyonight&hide_border=true&border_radius=8" height="170" />
@@ -48,14 +48,14 @@ I love building fast, scalable apps and integrating AI into real products.
 </div>
 
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anannayamustcode&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
   <picture>
@@ -66,7 +66,7 @@ I love building fast, scalable apps and integrating AI into real products.
 </p>
 
 
-## 🔗 Quick Links
+## Quick Links
 
 <p align="center">
   <a href="https://portfolioo-beige-nine.vercel.app/" target="_blank">
@@ -81,7 +81,7 @@ I love building fast, scalable apps and integrating AI into real products.
 </p>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/anannaya-agarwal" target="_blank">
