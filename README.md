@@ -1,115 +1,93 @@
-# Hi, I'm Anannaya Agarwal
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=2800&pause=800&color=6BA4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anannaya+Agarwal;Full-Stack+Developer;AI+Explorer;Builder+%26+Innovator" alt="Typing SVG" />
+</div>
 
-### A passionate full-stack web developer branching into AI
 
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anannayamustcode&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views Badge" />
-</p> -->
+## 🚀 About Me
 
----
+I'm a full-stack web developer venturing into the world of Artificial Intelligence.  
+I love building fast, scalable apps and integrating AI into real products.
 
-##  About Me
+- 🔭 **Currently working on:** AI-powered SaaS platforms & ML-driven tools  
+- 🌱 **Learning:** ML algorithms, model integration & automation  
+- 🤝 **Looking to collaborate on:** Freelance work, startup collabs & open-source AI projects  
+- 💬 **Ask me about:** React • Next.js • Tailwind • Node.js • MongoDB  
 
-I'm a full-stack web developer, and I've recently branched into the world of Artificial Intelligence. I enjoy building performant and scalable web apps, as well as experimenting with AI-powered tools and SaaS platforms.
+> ✨ *Fun fact:* I once believed clouds were edible, and honestly… I still wish they were.
 
-- **Currently working on**: AI-integrated SaaS platforms and ML tools  
-- **Learning**: ML algorithms & AI integration with web apps  
-- **Open to collaborate on**: Freelance work, startup collabs, open-source AI projects
-- **Ask me about**: React • Next.js • Tailwind CSS • Node.js • MongoDB  
 
-**Fun fact**: I used to believe clouds were edible when I was little; it was my dream to try one someday.
+## 🧰 Tech Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,mysql,redis,python,java,cpp,git,docker,firebase,figma&theme=dark&perline=10" />
+</p>
 
-## Quick Links
 
-- [**Portfolio Website**](https://portfolioo-beige-nine.vercel.app/)
-- [**Resume**](https://drive.google.com/drive/folders/12UFh4KoQJqUar3aAJJTbOqmNw8RJUaGo?usp=sharing)
-- [**Email**](mailto:anannayaagarwal@gmail.com)
+## 🚀 Featured Projects
 
----
+<p align="center">
+  <a href="https://felecity.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anannayamustcode&repo=Felecity&theme=tokyonight&border_color=6BA4FF&border_radius=12" />
+  </a>
+  <a href="https://github.com/anannayamustcode/walmart-prototype" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anannayamustcode&repo=walmart-prototype&theme=tokyonight&border_color=6BA4FF&border_radius=12" />
+  </a>
+  <a href="https://github.com/anannayamustcode/Ecolens" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anannayamustcode&repo=Ecolens&theme=tokyonight&border_color=6BA4FF&border_radius=12" />
+  </a>
+</p>
 
-##  Connect With Me
 
-<p align="left">
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anannayamustcode&theme=tokyonight&hide_border=true&border_radius=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anannayamustcode&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anannayamustcode&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" height="170" />
+</div>
+
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anannayamustcode&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+</p>
+
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTaneja/DevTaneja/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevTaneja/DevTaneja/output/pacman-contribution-graph.svg" />
+    <img src="https://raw.githubusercontent.com/DevTaneja/DevTaneja/output/pacman-contribution-graph.svg" width="100%" />
+  </picture>
+</p>
+
+
+## 🔗 Quick Links
+
+<p align="center">
+  <a href="https://portfolioo-beige-nine.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6BA4FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:anannayaagarwal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/12UFh4KoQJqUar3aAJJTbOqmNw8RJUaGo?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-00C49A?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://linkedin.com/in/anannaya-agarwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
   <a href="https://instagram.com/anannaya__" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
   </a>
 </p>
-
----
-
-<b>Tech Stack</b>
-
-###  Frontend  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" />
-  <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
-</p>
-
-### Backend & Database  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" />
-</p>
-
-### 💻 Languages  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" />
-</p>
-
-### Tools & Services  
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
-</p>
-
-### Data Visualization  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/>
-</p>
-
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anannayamustcode&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anannayamustcode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevTaneja/DevTaneja/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevTaneja/DevTaneja/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DevTaneja/DevTaneja/output/pacman-contribution-graph.svg">
-</picture>
-
-
-</p> 
