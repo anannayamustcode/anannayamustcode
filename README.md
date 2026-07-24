@@ -14,7 +14,6 @@ I love building fast, scalable apps and integrating AI into real products.
 - **Looking to collaborate on:** Freelance work, startup collabs & open-source AI projects  
 - **Ask me about:** React • Next.js • Tailwind • Node.js • MongoDB  
 
-> *Fun fact:* I once believed clouds were edible, and honestly… I still wish they were.
 
 
 ## Tech Stack
@@ -49,10 +48,6 @@ I love building fast, scalable apps and integrating AI into real products.
 
 
 ##  GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anannayamustcode&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
-</p>
 
 
 ##  Contribution Graph
